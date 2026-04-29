@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luciana Nishimura – Administração Financeira | Auditoria</title>
+    <meta name="description" content="Portfólio profissional de Luciana Nishimura, especialista em administração financeira, auditoria e TEA nível 1. Experiência em coordenação comercial, controle de custos e relatórios gerenciais.">
+    <meta name="author" content="Luciana Campos Nishimura">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            line-height: 1.5;
+            background-color: #f5f7fc;
+            color: #1e2a3e;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 28px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            overflow: hidden;
+            padding: 2rem 2rem 2.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body {
+                padding: 1rem;
+            }
+            .container {
+                padding: 1.5rem;
+            }
+        }
+
+        .header {
+            border-bottom: 3px solid #2c7da0;
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            color: #0b3b4f;
+            letter-spacing: -0.5px;
+            line-height: 1.2;
+        }
+
+        .subhead {
+            font-size: 1.1rem;
+            color: #2c7da0;
+            font-weight: 500;
+            margin-top: 0.5rem;
+        }
+
+        .contact-info {
+            text-align: right;
+            font-size: 0.9rem;
+        }
+
+        .contact-info a {
+            color: #1e6f5c;
+            text-decoration: none;
+            border-bottom: 1px dotted #a7c5cd;
+        }
+
+        .contact-info a:hover {
+            color: #0f4c5e;
+            border-bottom: 1px solid #0f4c5e;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section h2 {
+            font-size: 1.6rem;
+            color: #1e5f74;
+            border-left: 5px solid #2c7da0;
+            padding-left: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .job, .education-item, .course-item {
+            margin-bottom: 1.25rem;
+        }
+
+        .job-title {
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: #0c4e6e;
+        }
+
+        .company {
+            font-weight: 600;
+            color: #2c7da0;
+        }
+
+        .date {
+            font-size: 0.8rem;
+            color: #5e7a8c;
+            margin-left: 1rem;
+        }
+
+        .job ul, .skills-list {
+            margin-top: 0.5rem;
+            padding-left: 1.5rem;
+        }
+
+        .job li {
+            margin: 0.3rem 0;
+        }
+
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.6rem;
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .skills-list li {
+            background: #e9f0f5;
+            padding: 0.3rem 0.9rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: #1e5f74;
+        }
+
+        .badge-tea {
+            background: #fef3e2;
+            border-left: 4px solid #e67e22;
+            padding: 1rem 1.2rem;
+            border-radius: 18px;
+            margin: 1.5rem 0;
+            font-size: 0.95rem;
+        }
+
+        .btn-pdf {
+            display: inline-block;
+            background: #1e5f74;
+            color: white;
+            padding: 0.7rem 1.5rem;
+            border-radius: 40px;
+            text-decoration: none;
+            font-weight: 500;
+            margin-top: 1rem;
+            transition: 0.2s;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-pdf:hover {
+            background: #0b3b4f;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.8rem;
+            border-top: 1px solid #dce7ed;
+            padding-top: 1.5rem;
+            color: #6c8a9c;
+        }
+
+        hr {
+            margin: 1rem 0;
+            border: 0;
+            height: 1px;
+            background: linear-gradient(to right, #cbdde6, transparent);
+        }
+    </style>
+</head>
+<body>
+<div class="container" id="portfolioContent">
+    <!-- CABEÇALHO -->
+    <div class="header">
+        <div>
+            <h1>Luciana Nishimura</h1>
+            <div class="subhead">Administração Financeira | Auditoria | TEA – Nível de Suporte 1</div>
+        </div>
+        <div class="contact-info">
+            📍 São Paulo – SP<br>
+            📞 <a href="tel:+5511970683440">+55 (11) 9 7068-3440</a><br>
+            ✉️ <a href="mailto:lucnishimura@gmail.com">lucnishimura@gmail.com</a><br>
+            🔗 <a href="https://www.linkedin.com/in/luciana-nishimura-14404337/" target="_blank">LinkedIn</a><br>
+            🌐 <a href="http://www.luciananishimura.com.br" target="_blank">luciananishimura.com.br</a>
+        </div>
+    </div>
+
+    <!-- SINTESE -->
+    <div class="section">
+        <h2>Síntese de Qualificações</h2>
+        <ul style="columns: 2; column-gap: 2rem; list-style: square; padding-left: 1.2rem;">
+            <li>Planejamento administrativo-financeiro</li>
+            <li>Controle de riscos e inadimplência</li>
+            <li>Contas a pagar/receber & conciliações</li>
+            <li>Análise de viabilidade financeira</li>
+            <li>Auditoria e investigação de divergências</li>
+            <li>KPIs, relatórios gerenciais</li>
+            <li>SAP (pedidos, faturamento)</li>
+            <li>Excel avançado, HP 12C</li>
+        </ul>
+    </div>
+
+    <!-- FORMAÇÃO -->
+    <div class="section">
+        <h2>Formação Acadêmica</h2>
+        <div class="education-item"><strong>Administração de Empresas</strong> – Faculdade Magister</div>
+        <div class="education-item"><strong>Técnico em Química</strong> – Instituição de Ensino Charles Babbage</div>
+    </div>
+
+    <!-- EXPERIÊNCIAS -->
+    <div class="section">
+        <h2>Experiências Profissionais</h2>
+
+        <div class="job">
+            <div class="job-title">Coordenadora Comercial</div>
+            <div class="company">Supri Artigos Médicos Hospitalares Ltda <span class="date">2020 – 2021</span></div>
+            <ul>
+                <li>Relacionamento com clientes e coordenação de analistas comerciais</li>
+                <li>Orçamentos e pedidos de venda no SAP</li>
+                <li>Interface comercial, financeiro e logística</li>
+                <li>Gestão de indicadores de atendimento (KPI) e melhorias</li>
+                <li>Emissão de faturas, boletos e administração de notas fiscais</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <div class="job-title">Assistente Administrativa Financeira</div>
+            <div class="company">Audit Business Solutions <span class="date">2013 – 2016</span></div>
+            <ul>
+                <li>Suporte ao planejamento administrativo-financeiro e controle de riscos</li>
+                <li>Contas a pagar/receber, conciliações bancárias e contábeis</li>
+                <li>Análise de viabilidade financeira para aquisições</li>
+                <li>Elaboração de planilhas e relatórios gerenciais</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <div class="job-title">Consultora de Auditoria</div>
+            <div class="company">Aspem <span class="date">2009 – 2013</span></div>
+            <ul>
+                <li>Auditoria operacional em faturamento de lojistas (shoppings e aeroportos)</li>
+                <li>Diagnósticos financeiros e monitoramento de riscos</li>
+                <li>Treinamento de equipes de auditoria</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <div class="job-title">Outras experiências relevantes</div>
+            <ul>
+                <li>Centroprojekt do Brasil S/A – Analista de RH</li>
+                <li>Condomínio Shopping SP Market – Assistente de Auditoria</li>
+                <li>Schneider Electric Brasil S/A – Auxiliar de Escritório</li>
+                <li>Audit Business Solutions – Supervisora de Auditoria</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- CURSOS E CONHECIMENTOS -->
+    <div class="section">
+        <h2>Cursos Complementares</h2>
+        <ul class="skills-list" style="list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem;">
+            <li>Administração Financeira</li><li>Controladoria</li><li>Fluxo de Caixa</li>
+            <li>Gestão de Capital de Giro</li><li>Demonstrativos Financeiros</li>
+            <li>VPL / TIR / PayBack</li><li>WACC – CMPC</li><li>Técnicas de Negociação – Senac</li>
+            <li>Excel (Impacta)</li><li>Recursos Humanos – Sebrae</li><li>HP 12C</li>
+        </ul>
+    </div>
+
+    <!-- SEÇÃO TEA + ADAPTAÇÕES -->
+    <div class="badge-tea">
+        <strong>🧩 Transtorno do Espectro Autista – Nível de suporte 1</strong><br>
+        CID-11: 6A02 | CID-10: F84 | conforme DSM-5<br><br>
+        ✔️ Rigidez cognitiva, hiperfoco e alto nível analítico<br>
+        ✔️ Hipersensibilidade auditiva e sensorial → ambiente mais silencioso recomendado<br>
+        ✔️ Plano terapêutico individualizado (PTI) com psicologia TCC/ABA<br><br>
+        <em>“Adaptações sensoriais no ambiente de trabalho potencializam minha precisão, consistência e excelência operacional.”</em>
+    </div>
+
+    <!-- HABILIDADES TÉCNICAS -->
+    <div class="section">
+        <h2>Competências técnicas</h2>
+        <ul class="skills-list" style="list-style: none; padding-left: 0;">
+            <li>SAP (SD / Financeiro)</li><li>Excel avançado</li><li>HP 12C</li>
+            <li>Conciliações bancárias</li><li>Análise de crédito</li><li>Auditoria operacional</li>
+            <li>Gestão de KPIs</li><li>Relatórios gerenciais</li>
+        </ul>
+    </div>
+
+    <footer>
+        📄 Portfólio profissional – Luciana Campos Nishimura<br>
+        🔗 <a href="http://www.luciananishimura.com.br">www.luciananishimura.com.br</a> | Documento atualizado em 2025
+    </footer>
+</div>
+
+<div style="text-align: center; margin-top: 1.5rem;">
+    <button class="btn-pdf" id="downloadPDF">📄 Baixar portfólio em PDF</button>
+</div>
+
+<!-- SCRIPT PARA GERAR PDF (usando html2pdf) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    document.getElementById('downloadPDF').addEventListener('click', function() {
+        const element = document.getElementById('portfolioContent');
+        const opt = {
+            margin: [0.5, 0.5, 0.5, 0.5],
+            filename: 'Portfolio_Luciana_Nishimura.pdf',
+            image: { type: 'jpeg', quality: 0.98 },
+            html2canvas: { scale: 2, letterRendering: true },
+            jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
+        };
+        html2pdf().set(opt).from(element).save();
+    });
+</script>
+</body>
+</html>
